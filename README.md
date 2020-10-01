@@ -23,7 +23,7 @@ If you dont have a favourite one, I'd recommend the [Zed Attack Proxy](https://w
 
 The Bodge It Store include the following significant vulnerabilities:
 * Cross Site Scripting
-* SQL injection
+* SQL injection - Serge
 * Hidden (but unprotected) content
 * Cross Site Request Forgery
 * Debug code
